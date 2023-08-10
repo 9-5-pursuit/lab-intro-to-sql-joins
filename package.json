@@ -1,0 +1,22 @@
+{
+  "name": "lab-intro-to-sql-joins",
+  "version": "1.0.0",
+  "description": "### Part 1",
+  "main": "index.js",
+  "scripts": {
+    "db:init": "psql -U postgres -f db/schema.sql",
+    "db:seed": "psql -U postgres -f db/seed.sql",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkiraBrown/lab-intro-to-sql-joins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkiraBrown/lab-intro-to-sql-joins/issues"
+  },
+  "homepage": "https://github.com/AkiraBrown/lab-intro-to-sql-joins#readme"
+}
