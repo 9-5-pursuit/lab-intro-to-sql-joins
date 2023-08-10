@@ -21,5 +21,13 @@ Rate your comfort and choose the matching activity
 ### In Canvas, answer the following questions:
 
 - Which resource did you choose to use?
+  I made two tables to practice on football players and football teams. (American's call it soccer)
+
+Commands to start
+
+1. npm run db:init
+2. npm run db:seed
 
 - What are three things you learned during this lab?
+
+How to insert a CSV file into a SQL table
